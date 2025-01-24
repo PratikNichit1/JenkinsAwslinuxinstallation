@@ -1,4 +1,4 @@
-commad for jenkins install for aws linux 
+command for jenkins install for aws linux 
 
 
 sudo wget -O /etc/yum.repos.d/jenkins.repo  https://pkg.jenkins.io/redhat-stable/jenkins.repo
