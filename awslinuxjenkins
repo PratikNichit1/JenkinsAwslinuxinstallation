@@ -9,7 +9,7 @@ sudo yum upgrade
 
 sudo dnf install java-17-amazon-corretto -y
 
-sudo yum install jenkins -y
+sudo yum install jenkins git -y
 
 sudo systemctl enable jenkins
 
